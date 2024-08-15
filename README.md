@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jonathan Adriel</h1>
+
+<p align="center">
+  Welcome to my GitHub profile! This account is associated with my university email. For my latest projects and contributions, please visit my active GitHub profile: <a href="https://github.com/JonathanAdriell">JonathanAdriell</a>.
+</p>
 
 <!--
 **Jonathan-Adriel/Jonathan-Adriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
