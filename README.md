@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Jonathan Adriel</h1>
+<h1 align="center">Hi, I'm Jonathan Adriel!</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! This account is associated with my university email. For my latest projects and contributions, please visit my active GitHub profile: <a href="https://github.com/JonathanAdriell">JonathanAdriell</a>.
+  This account is associated with my university email. For my latest projects and contributions, please visit my active GitHub profile: <a href="https://github.com/JonathanAdriell">JonathanAdriell</a>.
 </p>
 
 <!--
